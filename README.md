@@ -7,9 +7,13 @@ our main purpose was to analyze data of alcohol consumption devided by type of d
 
 # Acquisition
 gathering information using crawling(selenium) 
+
 https://gateway.euro.who.int
+
 pathering information from given csv file
+
 https://ourworldindata.org/causes-of-death
+
 the data saved in dataframes and manipulated multiple times during the project
 
 # Data Cleaning
